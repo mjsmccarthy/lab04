@@ -1,15 +1,14 @@
 Test 1:
 Input values: 4, 2, 1, 4, 5
-Expected result: 1, 2, 3, 4, 5
+Expected result: 5, 4, 3, 2, 1
 Test 2:
 Input values: 45, 12, 85, 32, 89, 39, 69, 44, 42, 1, 6, 8
-Expected result: 1, 6, 8, 12, 32, 39, 42, 44, 45, 69, 85, 89
+Expected result: 89, 85, 69, 45, 44, 42, 39, 32, 12, 8, 6, 1
 Test 3:
 Input values: John, Matt, Kelsey, Laura
-Expected result: John, Kelsey, Laura, Matt
+Expected result: Matt, Laura, Kelsey, John
 Test 4:
 Input values: H, A, B, E, D, C
-Expected result: A, B, C, D, E, H
-Test 5:
+Expected result: H, E, D, C, B, ATest 5:
 Input values: 1.1, 2.1, 0.7, 3.4, 1.5
-Expected result: 0.7, 1.1, 1.5, 2.1, 3.4
+Expected result: 3.4, 2.1, 1.5, 1.1, 0.7
